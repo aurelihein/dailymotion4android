@@ -1,0 +1,40 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                        dailymotion4android                                  *
+ * Copyright (C) 2012  Aurelien BOUIN (aurelien@bouinux.com)                   *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *  This program is free software; you can redistribute it and/or              *
+ *  modify it under the terms of the GNU General Public License                *
+ *  as published by the Free Software Foundation; either version 3             *
+ *  of the License, or (at your option) any later version.                     *
+ *                                                                             *
+ *  This program is distributed in the hope that it will be useful,            *
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of             *
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the              *
+ *  GNU General Public License for more details.                               *
+ *                                                                             *
+ *  You should have received a copy of the GNU General Public License          *
+ *  along with this program; if not, write to the Free Software                *
+ *  Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.*
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+Project		: dailymotion4android - Class that implement basics transactions
+with the dailymotion api for android developers
+Email		: aurelien@bouinux.com
+License		: GPLv3
+Home Page	: http://www.bouinux.com
+
+android is a GPL v3 class that implement basics transactions
+with the dailymotion api for android developers.
+
+Features :
+----------
+
+dailymotion4android has support for :
+ - retrieving access_token for a user and an appli
+ - publishing a video for an access_token
+
+Contact information:
+--------------------
+
+For more information on dailymotion4android, any contributions, or any remarks,
+you can contact me at <aurelien@bouinux.com>.
