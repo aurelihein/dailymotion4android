@@ -30,8 +30,10 @@ Features :
 ----------
 
 dailymotion4android has support for :
- - retrieving access_token for a user and an appli
- - publishing a video for an access_token
+ - login in a user account
+ - logout
+ - check the session validity
+ - publishing a video
 
 Contact information:
 --------------------
