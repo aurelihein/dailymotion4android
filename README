@@ -1,6 +1,6 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                        dailymotion4android                                  *
- * Copyright (C) 2012  Aurelien BOUIN (aurelien@bouinux.com)                   *
+ *   Copyright (C) 2012  Aurelien BOUIN (aurelien.bouin@captina.dev)           *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *  This program is free software; you can redistribute it and/or              *
  *  modify it under the terms of the GNU General Public License                *
@@ -19,9 +19,9 @@
 
 Project		: dailymotion4android - Class that implement basics transactions
 with the dailymotion api for android developers
-Email		: aurelien@bouinux.com
+Email		: aurelien.bouin@captina.dev
 License		: GPLv3
-Home Page	: http://www.bouinux.com
+Home Page	: https://captina.dev
 
 dailymotion4android is a GPL v3 class that implement basics transactions
 with the dailymotion api for android developers.
@@ -40,4 +40,4 @@ Contact information:
 --------------------
 
 For more information on dailymotion4android, any contributions, or any remarks,
-you can contact me at <aurelien@bouinux.com>.
+you can contact me at <aurelien.bouin@captina.dev>.
